@@ -4,7 +4,7 @@
 
 Manipulation and transformation for various types of data, with the aim of analyzing a "problematic" dataset
 
-##Technologies Used
+## Technologies Used
 
 *SQL*: PgAdmin
 
