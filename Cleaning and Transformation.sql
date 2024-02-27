@@ -13,6 +13,7 @@ CREATE TABLE marketing_campaign (
 );
 
 
+
 -- Stored Procedure for data loading
 CREATE OR REPLACE PROCEDURE insert_campaign_data()
 LANGUAGE plpgsql
